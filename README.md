@@ -29,7 +29,7 @@ The IoT(Hardware) components required are:
 
 ## Circuit Diagram
 
-![image](https://github.com/BKG-Robocon-team/Unmanned-Surface-Vehicle/assets/45262669/310ae035-2aed-455f-94fd-5f40adfbfe61)
+![image](doc/usv_Electric.png)
 
 
 ## Simulation in Gazebo

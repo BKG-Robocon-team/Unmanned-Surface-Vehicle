@@ -19,20 +19,24 @@ The Unmanned Surface Vehicle (USV) is a robotic system that autonomously navigat
 
 The IoT(Hardware) components required are:
 
-- **AVR family microcontroller**
-- **LCD screen**
-- **Wifi modem**
-- **A buzzer**
-- **12V transformer**
+- **Raspberry PI**
+- **Neo N8M**
+- **ADS1115**
+- **GY-91 IMU Sensor**
+- **ESC Brushless controller**
 
 ## Getting Started
 
-## Issues
+## Circuit Diagram
 
-## Contribution Guidelines
+![image](https://github.com/BKG-Robocon-team/Unmanned-Surface-Vehicle/assets/45262669/310ae035-2aed-455f-94fd-5f40adfbfe61)
 
 
-## Open Source Programs
+## Simulation in Gazebo
+
+![image](https://github.com/BKG-Robocon-team/Unmanned-Surface-Vehicle/assets/45262669/2724a694-6bae-4feb-aa23-4b31f589f559)
+
+
 
 ## Mentors
 
@@ -42,13 +46,7 @@ The IoT(Hardware) components required are:
 
 ## Useful Resources
 
+[Project Definition Document](https://docs.google.com/spreadsheets/d/1eam0kNJS5JAPLBJ7-bUTmjU_azjv8y5DEV80axiB__I/edit?fbclid=IwZXh0bgNhZW0CMTAAAR0jDvYxtVIcWbFSndvCd7W_tJsVNXhYPtu7VgXbZhjSy1PIzmAlz8DhPZc_aem_AZN6eFqjrJJa_lzEBjXCGE1p7S4CD7Hc8l7LTGk6ziRQSd0BwNeDH95Rkw0vcufiSmnsjPqBJq4vCUlszNMsk_QV#gid=1359562578)
 
-## Project Admin
-
-
-
-
-
-<p align="center"><strong><sup>:hugs: <br>Check out my other projects <a href="./PROJECTS.md">here</a>!</sup></strong></p>
 
 

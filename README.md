@@ -25,7 +25,15 @@ The IoT(Hardware) components required are:
 - **GY-91 IMU Sensor**
 - **ESC Brushless controller**
 
-## Getting Started
+# TODO 
+- [ ] Design Solidworks step file - Đạt
+- [x] Make electric schematic - Tuyền
+- [ ] Design motor part and assembly to robot - Hiếu
+- [ ] Code ROS to read sensor - Tuyền
+- [ ] Code ROS to control motors - Tuyền
+- [ ] Code ROS map - Tuyền
+
+
 
 ## Circuit Diagram
 

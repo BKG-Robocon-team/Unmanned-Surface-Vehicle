@@ -34,6 +34,11 @@ The IoT(Hardware) components required are:
 - [ ] Code ROS map - Tuyền
 
 
+## Catamaran Design
+
+Why we use catamaran design is in [Here](doc/why_is_catamaran.md)  
+![image](https://github.com/BKG-Robocon-team/Unmanned-Surface-Vehicle/assets/45262669/e6d4d970-9d4c-4260-a04c-fa79b49d4b4d)
+
 
 ## Circuit Diagram
 

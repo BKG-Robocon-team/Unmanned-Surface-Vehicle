@@ -28,6 +28,7 @@ The IoT(Hardware) components required are:
 # TODO 
 - [ ] Design Solidworks step file - Đạt
 - [x] Make electric schematic - Tuyền
+- [x] Design PCB Altium - Tuyền
 - [ ] Design motor part and assembly to robot - Hiếu
 - [ ] Code ROS to read sensor - Tuyền
 - [ ] Code ROS to control motors - Tuyền
@@ -40,9 +41,11 @@ Why we use catamaran design is in [Here](doc/why_is_catamaran.md)
 ![image](https://github.com/BKG-Robocon-team/Unmanned-Surface-Vehicle/assets/45262669/e6d4d970-9d4c-4260-a04c-fa79b49d4b4d)
 
 
-## Circuit Diagram
+## Circuit 
 
 ![image](doc/usv_Electric.png)
+![image](https://github.com/BKG-Robocon-team/Unmanned-Surface-Vehicle/assets/45262669/e7a5ad2c-a972-41ef-b225-746c547a2792)
+
 
 
 ## Simulation in Gazebo
